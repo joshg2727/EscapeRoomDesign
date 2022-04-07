@@ -1,0 +1,25 @@
+body {
+background-image: url("https://joshg2727.github.io/EscapeRoomDesign/TrainBackground.jpg");
+  color: Yellow;
+  font-weight: bold;
+  text-shadow: 2px 2px 8px;
+}
+/*Animated Image Code, use if you decide to switch back to it
+.trainimage {
+  width: 200px;
+  height: 200px;
+  float: right;
+  position: relative;
+  animation-name: train;
+animation: slide 4s linear 1s infinite normal backwards;
+}
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100px);
+  }
+}
+*/
