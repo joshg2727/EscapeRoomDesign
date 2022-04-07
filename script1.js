@@ -5,6 +5,7 @@ function colorAnswer() {
    if(passwordText == "TUBERCULOSIS") {
     return true;
    }
+   /*If the user enters the incorrect answer, they will get a pop-up dialogue with this response/*
    alert("I'm sorry, that is not the correct diagnosis.");
    return false;
    }
